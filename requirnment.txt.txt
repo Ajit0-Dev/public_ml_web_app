@@ -1,0 +1,1 @@
+streamlit run "C:\Users\admin\Desktop\MultipleDiesese\multiplDisease.py"
