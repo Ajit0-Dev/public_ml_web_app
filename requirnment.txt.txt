@@ -1,1 +1,4 @@
-streamlit run "C:\Users\admin\Desktop\MultipleDiesese\multiplDisease.py"
+numpy == 1.21.4
+pickle-mixin == 1.0.2
+streamlit-option-menu == 0.3.2
+scikit-learn == 1.0.1
